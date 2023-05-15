@@ -1,0 +1,21 @@
+ID_ADRESU,MIASTO,ULICA,NR_MIESZKANIA,KOD_POCZTOWY
+1,Rzeszow,Wojska Polskiego,23,23-212
+2,Warszawa,Chlodna,11,54-235
+3,Warszawa,Targowa,53,12-423
+4,Krakow,Szpitalna,3,00-239
+5,Lublin,Lakowa,43/2,35-243
+6,Sopot,Niepodleglosci,5,85-674
+7,Wroclaw,Legionow,152a,57-472
+8,Lodz,Krakowska,12,09-876
+9,Krakow,Lwowska,16,23-527
+10,Poznan,Wincentego Pola,168,73-524
+11,Rzeszow,Armii Krajowej,104,24-624
+12,Wroclaw,Armii Krajowej,51,24-624
+13,Gdansk,Bielska,35c,24-624
+14,Lublin,Balonowa,25.2,64-262
+15,Rzeszow,Armii Krajowej,22a,64-264
+16,Szczecin,Tadeusza Kosciuszki,2d,32-324
+17,Bydgoszcz,Kolejowa,21a,46-422
+18,Bialystok,Armii Krajowej,9,24-624
+19,Katowice,Kruczka,23,64-262
+20,Katowice,Szeroka,213,24-624

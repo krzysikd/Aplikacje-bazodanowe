@@ -1,0 +1,11 @@
+ID_NADWOZIE,NADWOZIE
+7,Hatchback
+1,Kombi
+3,Kabriolet
+4,Sedan
+2,Suv
+9,Minibus
+8,Terenowy
+6,Pickup
+5,Coupe
+10,Ciezarowy

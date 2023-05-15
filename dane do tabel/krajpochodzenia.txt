@@ -1,0 +1,18 @@
+ID_KRAJU,KRAJ
+1,Austria
+2,Belgia
+3,Chorwacja
+4,Czechy
+5,Dania
+6,Francja
+7,Hiszpania
+8,Holandia
+9,Kanada
+10,Niemcy
+11,Norwegia
+12,Polska
+13,Stany Zjednoczone
+14,Szwajcaria
+15,Wielka Brytania
+16,Wlochy
+17,Inny

@@ -1,0 +1,6 @@
+ID_PALIWA,RODZAJ
+2,Diesel
+5,Elektryczny
+1,Benzyna
+3,LPG
+4,CNG i Hybryda

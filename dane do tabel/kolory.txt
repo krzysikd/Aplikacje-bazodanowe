@@ -1,0 +1,11 @@
+ID_KOLORU,NAZWA
+8,Zielony
+1,Bialy
+2,Czarny
+3,Szary
+9,Zolty
+6,Brazowy
+7,Czerwony
+4,Srebny
+5,Niebieski
+10,Inny

@@ -1,0 +1,3 @@
+ID_DOKUMENTU,NAZWA
+2,Dowod osobisty
+1,Paszport
